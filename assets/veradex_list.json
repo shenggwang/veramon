@@ -1,0 +1,472 @@
+{
+  "veradex": [
+    {
+      "id": "1",
+      "name": "veramon1",
+      "type": "water",
+      "spawn": "rare",
+      "image": "asset/images/veramon1.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 10.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "2",
+      "name": "veramon2",
+      "type": "water",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon2.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 15.0,
+        "defense": 15.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "3",
+      "name": "veramon3",
+      "type": "plant",
+      "spawn": "rare",
+      "image": "asset/images/veramon3.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 5.0,
+        "defense": 20.0,
+        "speed": 5
+      }
+    },
+    {
+      "id": "4",
+      "name": "veramon4",
+      "type": "plant",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon4.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 25.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "5",
+      "name": "veramon5",
+      "type": "fire",
+      "spawn": "rare",
+      "image": "asset/images/veramon5.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 15.0,
+        "defense": 5.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "6",
+      "name": "veramon6",
+      "type": "fire",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon6.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 20.0,
+        "defense": 10.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "7",
+      "name": "veramon7",
+      "type": "ghost",
+      "spawn": "rare",
+      "image": "asset/images/veramon7.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 5.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "8",
+      "name": "veramon8",
+      "type": "ghost",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon8.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 15.0,
+        "defense": 10.0,
+        "speed": 20
+      }
+    },
+    {
+      "id": "9",
+      "name": "veramon9",
+      "type": "common",
+      "spawn": "normal",
+      "image": "asset/images/veramon9.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 5.0,
+        "defense": 5.0,
+        "speed": 5
+      }
+    },
+    {
+      "id": "10",
+      "name": "veramon10",
+      "type": "common",
+      "spawn": "normal",
+      "image": "asset/images/veramon10.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 5.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "11",
+      "name": "veramon11",
+      "type": "uncommon",
+      "spawn": "normal",
+      "image": "asset/images/veramon11.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 15.0,
+        "defense": 10.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "12",
+      "name": "veramon12",
+      "type": "plant",
+      "spawn": "rare",
+      "image": "asset/images/veramon12.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 25.0,
+        "defense": 10.0,
+        "speed": 25
+      }
+    },
+    {
+      "id": "13",
+      "name": "veramon13",
+      "type": "ground",
+      "spawn": "uncommon",
+      "image": "asset/images/veramon13.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 5.0,
+        "defense": 15.0,
+        "speed": 5
+      }
+    },
+    {
+      "id": "14",
+      "name": "veramon14",
+      "type": "ground",
+      "spawn": "rare",
+      "image": "asset/images/veramon14.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 25.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "15",
+      "name": "veramon15",
+      "type": "ghost",
+      "spawn": "uncommon",
+      "image": "asset/images/veramon15.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 5.0,
+        "defense": 5.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "16",
+      "name": "veramon16",
+      "type": "ghost",
+      "spawn": "rare",
+      "image": "asset/images/veramon16.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 10.0,
+        "speed": 25
+      }
+    },
+    {
+      "id": "17",
+      "name": "veramon17",
+      "type": "electric",
+      "spawn": "uncommon",
+      "image": "asset/images/veramon17.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 5.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "18",
+      "name": "veramon18",
+      "type": "electric",
+      "spawn": "rare",
+      "image": "asset/images/veramon18.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 20.0,
+        "defense": 15.0,
+        "speed": 20
+      }
+    },
+    {
+      "id": "19",
+      "name": "veramon19",
+      "type": "dragon",
+      "spawn": "rare",
+      "image": "asset/images/veramon19.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 20.0,
+        "defense": 15.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "20",
+      "name": "veramon20",
+      "type": "dragon",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon20.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 30.0,
+        "defense": 25.0,
+        "speed": 20
+      }
+    },
+    {
+      "id": "21",
+      "name": "veramon21",
+      "type": "ghost",
+      "spawn": "uncommon",
+      "image": "asset/images/veramon21.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 5.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "22",
+      "name": "veramon22",
+      "type": "ghost",
+      "spawn": "common",
+      "image": "asset/images/veramon22.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 20.0,
+        "defense": 15.0,
+        "speed": 20
+      }
+    },
+    {
+      "id": "23",
+      "name": "veramon23",
+      "type": "fire",
+      "spawn": "common",
+      "image": "asset/images/veramon23.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 5.0,
+        "speed": 5
+      }
+    },
+    {
+      "id": "24",
+      "name": "veramon24",
+      "type": "fire",
+      "spawn": "rare",
+      "image": "asset/images/veramon24.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 20.0,
+        "defense": 15.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "25",
+      "name": "veramon25",
+      "type": "electric",
+      "spawn": "uncommon",
+      "image": "asset/images/veramon25.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 25.0,
+        "defense": 15.0,
+        "speed": 30
+      }
+    },
+    {
+      "id": "26",
+      "name": "veramon26",
+      "type": "normal",
+      "spawn": "uncommon",
+      "image": "asset/images/veramon26.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 5.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "27",
+      "name": "veramon27",
+      "type": "normal",
+      "spawn": "rare",
+      "image": "asset/images/veramon27.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 20.0,
+        "defense": 15.0,
+        "speed": 20
+      }
+    },
+    {
+      "id": "28",
+      "name": "veramon28",
+      "type": "ground",
+      "spawn": "rare",
+      "image": "asset/images/veramon28.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 25.0,
+        "speed": 5
+      }
+    },
+    {
+      "id": "29",
+      "name": "veramon29",
+      "type": "ground",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon29.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 20.0,
+        "defense": 35.0,
+        "speed": 5
+      }
+    },
+    {
+      "id": "30",
+      "name": "veramon30",
+      "type": "ghost",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon30.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 30.0,
+        "defense": 35.0,
+        "speed": 30
+      }
+    },
+    {
+      "id": "31",
+      "name": "veramon31",
+      "type": "plant",
+      "spawn": "common",
+      "image": "asset/images/veramon31.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 5.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "32",
+      "name": "veramon32",
+      "type": "plant",
+      "spawn": "rare",
+      "image": "asset/images/veramon32.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 15.0,
+        "defense": 10.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "33",
+      "name": "veramon33",
+      "type": "water",
+      "spawn": "common",
+      "image": "asset/images/veramon33.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 5.0,
+        "defense": 10.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "34",
+      "name": "veramon34",
+      "type": "water",
+      "spawn": "rare",
+      "image": "asset/images/veramon34.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 10.0,
+        "defense": 15.0,
+        "speed": 15
+      }
+    },
+    {
+      "id": "35",
+      "name": "veramon35",
+      "type": "electric",
+      "spawn": "rare",
+      "image": "asset/images/veramon35.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 15.0,
+        "defense": 15.0,
+        "speed": 10
+      }
+    },
+    {
+      "id": "36",
+      "name": "veramon36",
+      "type": "electric",
+      "spawn": "ultrarare",
+      "image": "asset/images/veramon36.png",
+      "stats": {
+        "hp":50.0,
+        "attack": 25.0,
+        "defense": 25.0,
+        "speed": 20
+      }
+    }
+  ]
+}
